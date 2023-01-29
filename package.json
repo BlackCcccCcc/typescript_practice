@@ -1,0 +1,11 @@
+{
+  "name": "typescript_practice",
+  "version": "1.0.0",
+  "description": "practice everyday",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "BLANK",
+  "license": "ISC"
+}
